@@ -12,7 +12,7 @@ public class AArrayList {
         Object[] groceryArray=new Object[3];
         groceryArray[0]=new GroceryItem("milk");
         groceryArray[1]=new GroceryItem("DAL","EATING",2);
-        groceryArray[2]="HELLO";
+        groceryArray[2]=new GroceryItem("GOLD","JWELLERY",9);
         System.out.println(Arrays.toString(groceryArray));
     }
 
