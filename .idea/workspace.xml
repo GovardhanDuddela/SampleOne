@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd1f88d-3534-45ea-952d-c645ab648986" name="Changes" comment="" />
+    <list default="true" id="2cd1f88d-3534-45ea-952d-c645ab648986" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/lpa/MoreLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayList/AArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/AArrayList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673495525454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1673495698105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673495698105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
