@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd1f88d-3534-45ea-952d-c645ab648986" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Htmlfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/LinkedFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/LlinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/web.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProgrmming/AutoBoxingChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProgrmming/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProgrmming/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProgrmming/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProgrmming/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/lpa/ChallangeArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardealership/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673681308574</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1675349531966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675349531967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
