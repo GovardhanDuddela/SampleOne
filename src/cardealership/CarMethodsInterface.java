@@ -3,7 +3,7 @@ package cardealership;
 import java.util.List;
 
 public interface CarMethodsInterface {
-    boolean carUpdatemake(String id,String make);
+    boolean carUpdateMake(String CarId,String make);
     boolean carDelete(Car car);
     boolean carUpdateModel(String carId,String model);
     boolean carUpdateYear(String carId,int year);
@@ -11,4 +11,6 @@ public interface CarMethodsInterface {
     boolean carAdd(Car car);
     List<Car> carDisplay();
     int carCount();
+
+
 }
