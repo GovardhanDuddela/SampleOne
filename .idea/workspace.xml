@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd1f88d-3534-45ea-952d-c645ab648986" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abstractchallange/ArtObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractchallange/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractchallange/ProductForSale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractchallange/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardealership/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardealership/CarServiceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardealership/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceChallange/Mappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractchallange/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacollections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacollections/Theatre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cardealership/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardealership/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cardealership/CarMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardealership/CarMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cardealership/CarMethodsInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardealership/CarMethodsInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cardealership/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardealership/DBConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +55,33 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="javacollections" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="abstractchallange" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Store">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="AutoBoxingChallange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicProgrmming.AutoBoxingChallange" />
       <module name="Sampldeone" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BasicProgrmming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractchallange.Enum" />
+      <module name="Sampldeone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractchallange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enum" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.cardealership.Main" />
         <item itemvalue="Application.Main" />
@@ -200,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675706806152</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1676294760818</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676294760818</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
